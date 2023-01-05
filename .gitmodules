@@ -6,4 +6,4 @@
 	url = git@github.com:UNITN-IdS-2022-T11/Documents.git
 [submodule "Codebase"]
 	path = Codebase
-	url = git@github.com:UNITN-IdS-2022-T11/CodeBase.git
+	url = git@github.com:UNITN-IdS-2022-T11/Codebase.git
